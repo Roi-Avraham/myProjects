@@ -1,0 +1,4 @@
+Hebrew:semitic languages(1), Arabic(1)
+a:f(1), g(1)
+lecturers:Arie(1), Reut(1), Yael(1), Eyal(1)
+semitic languages:nnn(2), Arabic(1), Hebrew(1)
